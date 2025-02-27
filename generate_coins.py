@@ -4,7 +4,7 @@ import time
 import os
 import json
 
-# Conexão com o banco
+# Conexão com o banco de dados
 db = mysql.connector.connect(
     host="localhost",
     user="python_user",
